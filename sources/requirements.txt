@@ -59,7 +59,7 @@ Mako==1.0.0
 MarkupSafe==0.23
 
 # sha256: X9JeS6mMZDAn-eFVXpCgDQx7Rt-q4pcdgqVBVLaTpm4
-mercurial==3.0.1
+mercurial==4.1.3
 
 # sha256: zF0-kM2nlGrOONi7S0i7Ner9Y2rhA3Ly9wVICFox_FA
 mock==1.0.1
