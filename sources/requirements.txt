@@ -92,7 +92,7 @@ pydot==1.0.2
 pyjon.utils==0.7
 
 # sha256: 7UcGsXnS4KCmFC3pbmUWvLEJkcfYBnJ6zVVA5MrrIP8
-pyOpenSSL==0.14
+pyopenssl>=17.5.0
 
 # sha256: KERo7ZiOUfYTxpoGGpQ96jyqfzRBpswGfqOTlFJZmQ0
 pyparsing==1.5.7
