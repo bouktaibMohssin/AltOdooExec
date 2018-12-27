@@ -68,7 +68,7 @@ mock==1.0.1
 passlib==1.6.2
 
 # sha256: g6CDdrL6BjTktQLEb15mcVSYY2uaKb7imAdjNiz2IoY
-Pillow==2.5.3
+Pillow>=3.3.2
 
 # sha256: -8E1H_7fCcp1YEKHWIRaiNZIuXMLY86eXfU6fInwOaQ
 pip==1.5.6
