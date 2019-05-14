@@ -125,7 +125,7 @@ pyusb==1.0.0b1
 PyWebDAV==0.9.4.1
 
 # sha256: 6Ayg4sf0j0kMUrSEFblmMZ-HjVqhREEKsBIh-D6jPVA
-PyYAML==3.11
+pyyaml>=4.2b1
 
 # sha256: RCMLrsDA6VmHOXpNIlzOFW6Y56mqrHmPHpg26rtyHPs
 qrcode==5.0.1
