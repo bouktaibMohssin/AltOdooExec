@@ -47,7 +47,7 @@ greenlet==0.4.3
 jcconv==0.2.3
 
 # sha256: Ntlsd3EqAMdYcrtBkPedHKaA4JAie_8EOpWF4J047Y8
-Jinja2==2.7.3
+Jinja2>=2.10.1
 
 # sha256: Hap1mynXQDRaa4kW6cJKD21V9ccYBymLnIrAXVWMock
 lxml==3.4.1
